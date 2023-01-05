@@ -30,3 +30,8 @@ build/
 nbbuild/
 dist/
 nbdist/
+
+# Intellij
+.idea/
+*.iml
+*.iws
